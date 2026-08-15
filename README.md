@@ -6,7 +6,11 @@ A [DeepSeek Harness](https://github.com/deepseek-ai/deepseek-harness) skill
 that teaches agents how to use **EvoRule** — the deterministic JSON rule engine
 with tamper-evident audit trails.
 
-**"LLM thinks, EvoRule executes."**
+> **"LLM thinks, EvoRule executes."**
+>
+> 让 Agent 拥有**确定性执行与可审计账本**，杜绝规则运行的幻觉与黑盒。
+> Give agents deterministic rule execution and tamper-evident audit trails —
+> no hallucination, no black box.
 
 ## What is EvoRule?
 
