@@ -1,4 +1,13 @@
 {
+  "$schema": "https://evorule.org/schemas/rule_set/v1.0.json",
+  "kind": "rule_set",
+  "id": "app.dsh.echo_rules",
+  "version": "0.1.0",
+  "metadata": {
+    "title": "dsh-skill echo example",
+    "description": "回显示例：将 __exec__.payload.input 原样写入 result，演示 payload 路径引用。",
+    "license": "AGPL-3.0-or-later"
+  },
   "transform": [
     {
       "type": "branch",

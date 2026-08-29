@@ -1,4 +1,13 @@
 {
+  "$schema": "https://evorule.org/schemas/rule_set/v1.0.json",
+  "kind": "rule_set",
+  "id": "app.dsh.hello_rules",
+  "version": "0.1.0",
+  "metadata": {
+    "title": "dsh-skill hello example",
+    "description": "最小示例：无条件分支将 x 置为 42，演示 evorule validate / run / verify-chain 基本用法。",
+    "license": "AGPL-3.0-or-later"
+  },
   "transform": [
     {
       "type": "branch",
