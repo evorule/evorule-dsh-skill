@@ -1,5 +1,9 @@
 # EvoRule DSH Skill
 
+> **仓库角色**：本仓库是 **GitHub 镜像**。权威源（primary repo）在 **Gitee**：[https://gitee.com/evorule/evorule-dsh-skill](https://gitee.com/evorule/evorule-dsh-skill)。
+> Issue / PR 请提交到 Gitee，GitHub 侧仅供镜像与推广展示。
+
+
 [![AGPL-3.0](https://img.shields.io/badge/license-AGPL--3.0--or--later-green)](LICENSE)
 
 A [DeepSeek Harness](https://github.com/deepseek-ai/deepseek-harness) skill
@@ -39,7 +43,7 @@ Available for `x86_64` and `aarch64` (Linux, musl, static linked).
 
 ```bash
 mkdir -p ~/.dsh/skills
-git clone https://github.com/evorule/evorule-dsh-skill ~/.dsh/skills/evorule
+git clone https://gitee.com/evorule/evorule-dsh-skill.git ~/.dsh/skills/evorule
 ```
 
 Or copy manually:
